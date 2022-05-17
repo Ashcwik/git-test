@@ -1,0 +1,8 @@
+{
+   "Wv1/CLR+7+svjM82ZCt0cOrDtZUK3j9hD++wu/kLDxY=": {
+      "expiry": 1679597762.909003,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1648061762.909006
+   }
+}
